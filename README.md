@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miriammazzeo95, I am a graduate in Susteìainable Energy Engineering with flair for data and AI
+- 👋 Hi, I’m @miriammazzeo95, I am a graduate in Sustainable Energy Engineering with flair for data and AI
 - 👀 I’m interested in Data Science, Machine Learning and Software Development
 - 🌱 I’m currently learning JavaScript and working for BAN as a Google Workspace Developer Intern, for deployment of clients management automations and connecting services with APIs 
 - 💞️ I’m looking to collaborate on projects involving Data Science, Modelling, Applications and Software, preferably involving Energy and Sustainability 
